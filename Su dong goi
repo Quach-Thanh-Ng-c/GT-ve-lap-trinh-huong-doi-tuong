@@ -1,0 +1,4 @@
+Sự đóng gói
+- Cho phép che dấu sự cài đặt chi tiết bên trong của phương thức.
+- Cho phép che dấu dữ liệu bên trong của đối tượng.
+- Cho phép hạn chế tối đa việc sửa lại mã chương trình.
