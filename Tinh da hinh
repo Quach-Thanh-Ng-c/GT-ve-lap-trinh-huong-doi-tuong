@@ -1,0 +1,13 @@
+Tính đa hình (Polymorphism)
+* **Tính đa hình** cho phép các lớp kế thừa **định nghĩa lại cùng một phương thức**.
+* Các phương thức trùng nhau phải có:
+  * Cùng tên.
+  * Cùng số lượng và kiểu tham số.
+  * Cùng kiểu trả về.
+* Việc các lớp con định nghĩa lại phương thức của lớp cha gọi là **nạp chồng/ghi đè phương thức** (theo nội dung slide).
+* Khi gọi phương thức trùng tên, chương trình sẽ **dựa vào đối tượng đang gọi** để thực hiện phương thức tương ứng của lớp đó.
+
+Ví dụ 
+* Lớp `Ấn phẩm`: `Lấy ra`, `Cất đi`, `Đọc`.
+* Lớp `Tạp chí` và `Sách` kế thừa từ `Ấn phẩm` và có thể **định nghĩa lại phương thức `Lấy ra`** theo cách riêng.
+
