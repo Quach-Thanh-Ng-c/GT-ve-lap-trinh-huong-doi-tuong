@@ -1,0 +1,17 @@
+  ĐỐI TƯỢNG :
+  - Là các thực thể có trong hệ thống.
+  - Xác định bằng ba yếu tố: Định danh_Trạng thái_Hoạt động của đối tượng.
+  LỚP ĐỐI TƯỢNG : 
+  - Lớp dùng để chỉ một tập hợp các đối tượng có mặt trong hệ thống.
+  - Đối tượng là một thể hiện cụ thể của lớp.
+  - Thuộc tính của lớp tương ứng với thuộc tính của đối tượng.
+  - Phương thức của lớp tương ứng với các hành động của đối tượng.
+  - Các dạng thành phần của lớp:
+    * Chỉ chứa thuộc tính.
+    * Chỉ chứa phương thức.
+    * Đầy đủ thuộc tinhs và phương thức.
+    * Lớp trừu tượng.
+  - Phân biệt và mối quan hệ giữa Lớp và Đối tượng:
+    * Bản chất: + Lớp là khái niệm trừu tượng, đóng vai trò như một nguyên mẫu(khuôn mẫu).
+                + Đối tượng là thực thể cụ thể, có thực và tồn tại trong hệ thống(thể hiện của lớp).
+    * Mối liên hệ: Tất cả các đối tượng được tạo ra từ cùng một lớp đều chia sẻ chung các thuộc tính và phương thức được định nghĩa trong lớp đó.
