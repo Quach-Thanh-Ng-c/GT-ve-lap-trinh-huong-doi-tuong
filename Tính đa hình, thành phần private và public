@@ -1,0 +1,17 @@
+Tính đa hình (Polymorphism)
+Cho phép các lớp được định nghĩa các phương thức trùng nhau, nhưng chúng có thể có số lượng và kiểu tham số khác nhau.
+Việc định nghĩa phương thức trùng nhau của các lớp kế thừa mà tham số được giữ là nạp chồng phương thức.
+Khi gọi phương thức trùng tên, dựa vào đối tượng đang gọi mà chương trình sẽ thực hiện phương thức của lớp tương ứng.
+
+Thành phần private và public
+
+Thành phần private
+Là khu vực dành riêng cho lớp, không chia sẻ với bất kỳ lớp khác từ bên ngoài.
+Thành phần private chỉ cho phép truy nhập trong phạm vi nội bộ của lớp. Không thể truy cập trực tiếp từ bên ngoài lớp.
+Thông thường, các thành phần sau sẽ được đặt vào khu vực private:
+Các thuộc tính dữ liệu của lớp và các phương thức trung gian, được sử dụng như các bước tính toán làm cơ sở cho các phương thức khác.
+
+Thành phần public
+Là khu vực mà lớp có thể chia sẻ với tất cả các chương trình và đối tượng bên ngoài. Có thể truy nhập từ bên ngoài lớp.
+Các thành phần được đặt vào vùng chia sẻ công khai của lớp thường gồm các phương thức nhập/xuất (set/get) các thuộc tính dữ liệu của lớp.
+Các phương thức cung cấp các chức năng hoạt động công khai cho người dùng bên ngoài.
