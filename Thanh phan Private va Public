@@ -1,0 +1,15 @@
+ Thành phần private và public
+
+1. Thành phần Private (riêng tư)
+
+* Chỉ được truy cập bên trong chính lớp đó, không chia sẻ với lớp bên ngoài.
+* Thường gồm:
+  * Các thuộc tính dữ liệu của lớp.
+  * Các phương thức trung gian dùng làm bước tính toán hỗ trợ cho phương thức khác.
+
+2. Thành phần Public (công khai)
+* Có thể được truy cập từ bên trong lẫn bên ngoài lớp.
+* Thường gồm:
+  * Phương thức get/set để nhập hoặc xem các thuộc tính dữ liệu.
+  * Các phương thức cung cấp chức năng và cách ứng xử của đối tượng với môi trường bên ngoài.
+
