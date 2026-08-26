@@ -1,0 +1,6 @@
+Lớp, đối tượng và trừu tượng hóa là những khái niệm cơ bản trong lập trình hướng đối tượng. 
+Lớp (Class) là khuôn mẫu dùng để định nghĩa các thuộc tính và phương thức chung của đối tượng. 
+Đối tượng (Object) là một thực thể cụ thể được tạo ra từ lớp, có trạng thái và hành vi riêng. 
+Trừu tượng hóa (Abstraction) là quá trình tập trung vào những đặc điểm và chức năng cần thiết của đối tượng, đồng thời che giấu các chi tiết xử lý bên trong.
+Việc trừu tượng hóa giúp chương trình đơn giản, dễ hiểu, dễ sử dụng, bảo mật dữ liệu và thuận tiện cho việc bảo trì, mở rộng. 
+Trong C++, lớp và đối tượng kết hợp với trừu tượng hóa giúp xây dựng chương trình có cấu trúc rõ ràng, hạn chế sự phức tạp và tăng khả năng tái sử dụng mã nguồn.
